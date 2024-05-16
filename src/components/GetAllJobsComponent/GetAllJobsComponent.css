@@ -15,7 +15,7 @@ body {
     justify-content: center;
   }
   
-  .books {
+  .jobs {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -63,11 +63,11 @@ body {
     color: grey;
   }
   
-  .author{
+  .salary{
     font-size: 1.5rem;
   }
   
-  .availability {
+  .description {
     color: turquoise
   }
   
